@@ -41,9 +41,6 @@ public class CratePacking {
 		return max;
 	}
 	
-	public static int fitn(int[] rec, int[] box) {
-		
-	}
 	
 	public static int calc (int X, int Y, int Z, int x, int y, int z) {
 		int xFit = X / x;
